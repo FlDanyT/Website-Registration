@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Website-Registration/static/css/main.eb070355.css",
+    "main.js": "/Website-Registration/static/js/main.0af57808.js",
+    "index.html": "/Website-Registration/index.html",
+    "main.eb070355.css.map": "/Website-Registration/static/css/main.eb070355.css.map",
+    "main.0af57808.js.map": "/Website-Registration/static/js/main.0af57808.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb070355.css",
+    "static/js/main.0af57808.js"
+  ]
+}
